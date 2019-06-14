@@ -1,8 +1,9 @@
 name: copy
-description: A starting point for Dart libraries or applications.
-# version: 1.0.0
-# homepage: https://www.example.com
-# author: ydl <yangdeliang@juwang.cn>
+description: copy file or copy direcotry
+
+version: 1.0.0
+homepage: https://www.sourcedev.cc
+author: ydl <yang623601391@gmail.cn>
 
 environment:
   sdk: '>=2.2.0 <3.0.0'
